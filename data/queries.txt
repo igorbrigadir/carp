@@ -1,6 +1,0 @@
-carp_first_hour.json	carp card_name:promo_image_convo since_id:1340108111399559169 until_time:1608345299
-carp_celebs.json	carp card_name:promo_image_convo since_id:1340108111399559169 filter:verified
-carp_24h.json		carp card_name:promo_image_convo since_time:1608345180 until_time:1608431580
-carp_48h.json		carp card_name:promo_image_convo since_time:1608431500 until_time:1608604380
-carp_72h.json		carp card_name:promo_image_convo since_time:1608604300 until_time:1608847380
-
